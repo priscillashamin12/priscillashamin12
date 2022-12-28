@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/r-priscilla-shamin-918664bb/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@priscillashamin/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:priscillashamin12@gmail.com)
 
 ## About Me 🙂
-- 🔭 I’m currently working as a Senior Software Web Developer at TATA Elxsi.
+- 💻 I’m currently working as a Senior Software Web Developer at TATA Elxsi.
 - 🌱 I’m currently learning React JS and Tailwind CSS.
 - 🎨 My Hobbies are Reading, Blogging, Drawing, and Baking.
 - 💬 Ask me about Psychology, Creativity and Web Development.
