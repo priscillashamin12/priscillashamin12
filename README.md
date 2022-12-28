@@ -31,9 +31,6 @@
 ![](https://img.icons8.com/color/48/null/sass-avatar.png) ![](https://img.icons8.com/color/48/null/bootstrap.png)
 ![](https://img.icons8.com/fluency/48/null/tailwind_css.png)
 
-### JavaScript Framework / Library
-![](https://img.icons8.com/color/48/null/angularjs.png) ![](https://img.icons8.com/plasticine/48/null/react.png)
-
 ### Programming Tools
 ![](https://img.icons8.com/color/48/null/visual-studio--v2.png) ![](https://img.icons8.com/color/48/null/xcode.png)
 ![](https://img.icons8.com/color/48/null/android-studio--v3.png)![](https://img.icons8.com/color/48/null/cloud-function.png) ![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/44/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
@@ -45,6 +42,9 @@
 
 ### Collaborative Tools
 ![](https://img.icons8.com/fluency/48/null/microsoft-teams-2019.png) ![](https://img.icons8.com/3d-fluency/48/null/zoom.png) ![](https://img.icons8.com/color/48/null/slack-new.png)
+
+### JavaScript Framework / Library
+![](https://img.icons8.com/color/48/null/angularjs.png) ![](https://img.icons8.com/plasticine/48/null/react.png)
 
 ### Database
 ![](https://img.icons8.com/color/48/null/mysql-logo.png)
