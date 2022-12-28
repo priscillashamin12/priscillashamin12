@@ -39,12 +39,12 @@
 ![](https://img.icons8.com/color/48/null/android-studio--v3.png)![](https://img.icons8.com/color/48/null/cloud-function.png) ![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/44/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![](https://img.icons8.com/fluency/48/null/node-js.png)
 
-### Collaborative Tools
-![](https://img.icons8.com/fluency/48/null/microsoft-teams-2019.png) ![](https://img.icons8.com/3d-fluency/48/null/zoom.png) ![](https://img.icons8.com/color/48/null/slack-new.png)
-
 ### Version Control Systems
 ![](https://img.icons8.com/color/48/000000/git.png) ![](https://img.icons8.com/3d-fluency/48/null/github.png)
 ![](https://img.icons8.com/color/48/null/jenkins.png) ![](https://img.icons8.com/color/40/null/jira.png) 
+
+### Collaborative Tools
+![](https://img.icons8.com/fluency/48/null/microsoft-teams-2019.png) ![](https://img.icons8.com/3d-fluency/48/null/zoom.png) ![](https://img.icons8.com/color/48/null/slack-new.png)
 
 ### Database
 ![](https://img.icons8.com/color/48/null/mysql-logo.png)
