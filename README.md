@@ -44,7 +44,7 @@
 
 ### Version Control Systems
 ![](https://img.icons8.com/color/48/000000/git.png) ![](https://img.icons8.com/3d-fluency/48/null/github.png)
-![](https://img.icons8.com/color/48/null/jenkins.png) ![](https://img.icons8.com/color/48/null/jira.png) 
+![](https://img.icons8.com/color/48/null/jenkins.png) ![](https://img.icons8.com/color/40/null/jira.png) 
 
 ### Database
 ![](https://img.icons8.com/color/48/null/mysql-logo.png)
