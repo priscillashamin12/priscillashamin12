@@ -24,7 +24,7 @@
 - 🥈 Received **Customer Appreciation Award** in **2021** at Tata Elxsi for Individually working on iOS workstream, proposing new features and delivering them on time from Multichoice customer for FieldTrials Project (South Africa).
 - 🥉 Received **Customer Appreciation Award** in **2022** at Tata Elxsi for implementing features in Do Not Air Project from Discovery customer (USA).
 
-## Languages and Tools 
+## Languages and Tools 🛠️
 ### Frontend Languages
 ![](https://img.icons8.com/color/48/null/html-5--v1.png) ![](https://img.icons8.com/color/48/null/css3.png)
 ![](https://img.icons8.com/color/48/null/javascript--v1.png) ![](https://img.icons8.com/color/48/null/typescript.png)
