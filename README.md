@@ -41,7 +41,7 @@
 ![](https://img.icons8.com/color/48/null/jenkins.png) ![](https://img.icons8.com/color/40/null/jira.png) 
 
 ### Collaborative Tools
-![](https://img.icons8.com/fluency/48/null/microsoft-teams-2019.png) ![](https://img.icons8.com/3d-fluency/48/null/zoom.png) ![](https://img.icons8.com/color/48/null/slack-new.png)
+![](https://img.icons8.com/fluency/48/null/microsoft-teams-2019.png) ![](https://img.icons8.com/3d-fluency/48/null/zoom.png) ![](https://img.icons8.com/3d-fluency/48/null/discord-logo.png) ![](https://img.icons8.com/color/48/null/slack-new.png)
 
 ### JavaScript Framework / Library
 ![](https://img.icons8.com/color/48/null/angularjs.png) ![](https://img.icons8.com/plasticine/48/null/react.png)
