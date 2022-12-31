@@ -43,11 +43,11 @@
 ### Collaborative Tools
 ![](https://img.icons8.com/fluency/48/null/microsoft-teams-2019.png) ![](https://img.icons8.com/3d-fluency/48/null/zoom.png) ![](https://img.icons8.com/color/48/null/slack-new.png)
 
-### Bundlers
-![](https://img.icons8.com/dusk/48/null/webpack.png) ![](https://img.icons8.com/fluency/48/null/package.png) ![](https:/upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png)
-
 ### JavaScript Framework / Library
 ![](https://img.icons8.com/color/48/null/angularjs.png) ![](https://img.icons8.com/plasticine/48/null/react.png)
+
+### Bundlers
+![](https://img.icons8.com/dusk/48/null/webpack.png) ![](https://img.icons8.com/fluency/48/null/package.png)
 
 ### Database
 ![](https://img.icons8.com/color/48/null/mysql-logo.png)
